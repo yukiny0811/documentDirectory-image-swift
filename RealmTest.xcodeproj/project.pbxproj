@@ -83,6 +83,8 @@
 			dependencies = (
 			);
 			name = RealmTest;
+			packageProductDependencies = (
+			);
 			productName = RealmTest;
 			productReference = BB2DAB5B28E0A5E900ABF654 /* RealmTest.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +113,8 @@
 				Base,
 			);
 			mainGroup = BB2DAB5228E0A5E900ABF654;
+			packageReferences = (
+			);
 			productRefGroup = BB2DAB5C28E0A5E900ABF654 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
